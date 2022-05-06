@@ -229,112 +229,8 @@ knitr::include_graphics("img/area.png")
 
 The profile includes two highly interrelated areas, reflecting two main perspectives, where researchers meet to jointly develop multidisciplinary research, education and innovation. These areas are demand for transport and logistics and supply of transport and logistics
 
----
-
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## PLACES - PLanning for ACcESs Research Group
-### Investigation objectives 
-
-.purple[
-- Create the potential for **effective**, **sustainable** and **social responsible** urban logistics solutions;
-
-- Enhance **livability**, **equitable access to opportunities**, **social justice** and **quality of life** in cities through the **coordination** among **mobility systems**, **land use** and the **spatial structure of urban activities and functions**;  
-
-- **Characterise**, **diagnose** and **assess** the relationship between **production, distribution and consumption structures** on **inequitable access to food and other essential goods** in urban areas.  
-  
-- Investigate **causal** relationships among **urban logistics** systems and the **urban spatial structure**, identifying relevant factors that **drive demand for goods**, considering the **customer as an active agent** in urban logistics.
-]
 
 ---
-
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## PLACES - PLanning for ACcESs Research Group
-### Main departments exchanging knowledge and collaborating with PLACES
-
-Department | Collaboration
------------|--------------
-Architecture and Civil Engineering | 
-Technology Management and Economics | asfa
-Computer Science and Engineering | sadf
-Communication and Learning in Science | Support on research communication to broader audiences, data curation and compliance with GDPR and Open Science efforts. 
-
-
-???
-
-GDPR - General Data Protection Regulation
-
-To explore these aforementioned goals through research and education, our research group focus on Transport Efficiency and Customer Adapted Logistics through interdisciplinary approaches.
-
-Our research group is entitled:
-
-
----
-
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## PLACES - PLanning for ACcESs Research Group
-### Some projects for you to join
-
-
-
-- jointly develop multidisciplinary research, education and innovation
-- demand for transport and logistics and supply of transport and logistics
-- Trabalh oinformal
-- Serviços críticos
-- Assessing trip chaining to access pickup points
-
-- Demand for transport services and logistics
-- Relationship among urban structure, transport and logistics solutions, and social and environmental dimensions in the urban context. 
-
-
-
-
-???
-
-
-
-Our research group is part of the Transporte, entitle PLACES - Planning for accessibility, 
-
-
----
-
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## PLACES - PLanning for ACcESs research group
-
-
-
-
-
----
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## Transport Area of Advance
-
-
---
-
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## PLACES - Planning for Accessibility Research Group
-
-
-
- 
-
-
-???
-
----
-
 background-image: url(img/fundo2.png)
 background-size: cover
 
@@ -367,67 +263,41 @@ Researching the transition to sustainable business practices for retailing and t
 background-image: url(img/fundo2.png)
 background-size: cover
 
-- Production and consumption in local scale
+## PLACES - PLanning for ACcESs Research Group
+### Investigation objectives 
 
-- 
+.purple[
+- Create the potential for **effective**, **sustainable** and **social responsible** urban logistics solutions;
+
+- Enhance **livability**, **equitable access to opportunities**, **social justice** and **quality of life** in cities through the **coordination** among **mobility systems**, **land use** and the **spatial structure of urban activities and functions**;  
+
+- **Characterise**, **diagnose** and **assess** the relationship between **production, distribution and consumption structures** on **inequitable access to food and other essential goods** in urban areas.  
+  
+- Investigate **causal** relationships among **urban logistics** systems and the **urban spatial structure**, identifying relevant factors that **drive demand for goods**, considering the **customer as an active agent** in urban logistics.
+]
+
 ---
 background-image: url(img/fundo2.png)
 background-size: cover
 
-# Department of Architecture and Civil Engineering
-## Architecture and planning beyond sustainability, MSc
-## Architecture and urban design, MSc
+## PLACES - PLanning for ACcESs Research Group
+### Main departments exchanging knowledge and collaborating with PLACES
 
-Creates the architects and civil engineers of the future, through education and research. Looking at engineering and social science, architecture and humanities, for the benefit of a sustainable society.
-
-he education leads to a wide range of career opportunities within architecture, urban design, and planning for sustainable development as a response to increasing awareness and commitment among both public and private actors.
-A master’s degree in architecture and urban design offers a wide range of career opportunities, from practice to research. Most of our courses have a strong connection and collaboration with industry and real projects. 
-Graduates work in architecture and urban design offices, city planning offices, and governmental bodies.
-
----
-Computer Science and Engineering
-The Department of Computer Science and Engineering (abbreviated CSE) has close to 300 employees who are engaged in education and research in a wide range of disciplines and areas of expertise from basic research to applications. We educate for the future and create social benefits through our research that is brought to life and implemented in close cooperation with business and industry. Our operations has a strong international character. The department is joint between Chalmers and University of Gothenburg.
-
-Most of the research at Data Science and AI is in cooperation with partners in academia and industry, which is combined with basic research in machine learning and related areas:
-algorithm theory (design, complexity, randomness)
-optimization and operations research (scheduling, routing)
-theoretical ML research (learning, decision-making)
-health informatics, bioinformatics and computational biology
-natural language processing (text analysis, representation learning, multimodality)
-autonomous vehicles
-mathematical modelling and problem solving 
-
-Interaction Design and Software Engineering
-Interaction Design concerns the interaction between people and products in which information technology is a central component. This can, for instance, be the interface and gameplay of modern computer games, the design of the complex interface between the driver and the network of computers controlling a modern car, the next generation of mobile communication devices or the integration of computational technology into our everyday things, such as "intelligent clothes". Regardless of application area, a design perspective on the interaction between people and technology is central. This makes interaction design an increasingly important area in application and systems development, as well as in industrial and product design.
+Department | Collaboration
+-----------|--------------
+Architecture and Civil Engineering | Urban Design and Planning, Urban ans Regional Transformations, Cities and Complexity, Urban Functional and Morphological structures, Geocomputation 
+Technology Management and Economics | Operations and Supply Chain Management, Entrepreneuship and informal labour, inequality measures, urban accessibility as the aim of urban planning and public policy
+Computer Science and Engineering | Data Analytics, Geocomputation, Theoretical ML research for decision-making, natural language processing to support qualitative methods
+Communication and Learning in Science | Support on research communication to broader audiences, data curation and compliance with GDPR and Open Science efforts. 
 
 
----
-Technology Management and Economics
-The department conducts outstanding research within Innovation and Entrepreneurship, Operations and Supply Chain Management, Environmental Assessment and Transition Studies, and the role of Technology in Society. The department has six research divisions, one division for support functions and hosts three research centres. Our work is related to most of Chalmers' Areas of Advance.
+???
 
----
-The vision of a sustainable future is what drives Chalmers.
+GDPR - General Data Protection Regulation
 
-Chalmers’ Areas of Advance are all about interaction between people; between researchers within and outside Chalmers, between researchers and students at Chalmers, between Chalmers and the surrounding world. 
+To explore these aforementioned goals through research and education, our research group focus on Transport Efficiency and Customer Adapted Logistics through interdisciplinary approaches.
 
-
-
----
-
-background-image: url(img/fundo2.png)
-background-size: cover
-
-## Research projects
-
-- The impacts of Dark kitchens and on-demand delivery regarding: 
-      - inequalities of access to food products in urban areas
-      - pressure on the urban structure 
-- Investigation on causal factors for the 
-
-- 
-      
-- Inequalities 
-- Access to informal work
+Our research group is entitled:
 
 ---
 
@@ -438,44 +308,49 @@ background-size: cover
 
 
 
+
 ---
 
 background-image: url(img/fundo2.png)
 background-size: cover
 
+## PLACES - PLanning for ACcESs Research Group
+### Projects waiting for you!!!
 
-.bold[
-.large[
-Análise Espacial dos Preços de Produtos Alimentícios no Varejo de Belo Horizonte e sua relação com a renda média da população   
-Orientação: *Alexandre Magno Alves Diniz*
 
-]]
+- jointly develop multidisciplinary research, education and innovation
+- demand for transport and logistics and supply of transport and logistics
+- Trabalh oinformal
+- Serviços críticos
+- Assessing trip chaining to access pickup points
+- Production and consumption in local scale
+- Demand for transport services and logistics
+- Relationship among urban structure, transport and logistics solutions, and social and environmental dimensions in the urban context. 
+- The impacts of Dark kitchens and on-demand delivery regarding: 
+      - inequalities of access to food products in urban areas
+      - pressure on the urban structure 
+- Investigation on causal factors for the 
+- Inequalities 
+- Access to informal work
+- Centralidade
+- Localização de instalações logísticas
+- Decision making - demand
+-   Paulo Henrique Góes Pinto - Identificação e qualificação de centralidades urbanas por meio de estrutura morfológico-funcional: um estudo de caso para a RMBH. 2020.
 
-.center[
-.larger[
-.pink[
-Acessibilidade
-]]]
+
+???
+
+
+
+Our research group is part of the Transporte, entitle PLACES - Planning for accessibility, 
+
 
 ---
 
-# 2017 - 2021
+## International collaboration
 
-.bold[
-Programa de mestrado em Geotecnia e Transportes da UFMG   
-]
 
-.midi[
--   Clarissa Pontes Melo - Análise da macroacessibilidade de pedestres idosos sob a ótica da qualidade do espaço urbano. 2021.
-
--   André Augusto Cunha Libânio - Avaliação da acessibilidade em cidades brasileiras. 2020.
-
--   Paulo Henrique Góes Pinto - Identificação e qualificação de centralidades urbanas por meio de estrutura morfológico-funcional: um estudo de caso para a RMBH. 2020.
-
--   José Moreira Gonçalves - Atração de Viagens de Carga em Indústria Automobilística de Máquinas Agrícolas e Rodoviárias. 2019.
-
--   Gabriela Pereira Lopes - Uma Análise da Localização de Instalações Logísticas versus Geração de Viagens e os Impactos na mobilidade urbana em Belo Horizonte. 2018.
-]
+NIUMAR - Network on Intelligent Urban Mobility and Accessibility research ❤️
 
 
 ---

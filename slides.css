@@ -46,7 +46,7 @@
   --code-font-family: 'Open Sans', sans-serif;
   --code-font-is-google: 1;
   --base-font-size: 20px;
-  --text-font-size: 1.5rem;
+  --text-font-size: 2.5rem;
   --code-font-size: 20px;
   --code-inline-font-size: 1em;
   --header-h1-font-size: 3.5rem;
@@ -166,7 +166,7 @@ h2, h3 {
 .remark-slide-content {
   background-color: var(--background-color);
   font-size: 1rem;
-  padding: 16px 64px 16px 64px;
+  padding: 16px 64px 6px 64px;
   width: 100%;
   height: 100%;
 }
@@ -430,5 +430,51 @@ img, video, iframe {
 
 /* Datatable headers */
 div.datatables {
-    color: #fff;
+    color: #504556;
+}
+
+.remark-slide table {
+  margin: auto;
+  border-top: 1px solid #8A8A8A;
+  border-bottom: 1px solid #8A8A8A;
+}
+
+.remark-slide table thead th {
+  border-bottom: 1px solid #8A8A8A;
+}
+
+th, td {
+  padding: 5px;
+}
+
+.remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) {
+  background: #b9b4bb;
+}
+
+table.dataTable tbody {
+  background-color: var(--background-color);
+}
+
+table.dataTable.display tbody tr.odd {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+table.dataTable.display tbody tr.even {
+  background-color: #b9b4bb;
+}
+
+table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+  color: var(--text-color);
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+  color: var(--text-color) !important;
+}
+
+.reduced_opacity {
+  opacity: 0.5;
 }
