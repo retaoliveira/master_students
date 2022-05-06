@@ -33,8 +33,6 @@ output:
 xaringanExtra::use_panelset()
 ```
 
-
-
 class: middle
 background-image: url(img/imagem3.png)
 background-size: contain
@@ -323,7 +321,27 @@ background-image: url(img/fundo2.png)
 background-size: cover
 
 ## Learning foundations and competence acquisition
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(icons)
+library(hexSticker)
+```
 
+.left-narrow[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+icon_style(fontawesome('r-project'), scale = 5, fill = "#2367ba")
+icon_style(fontawesome('github'), scale = 5, fill = "#ebdb00")
+
+```
+
+]
+
+.right-wide[
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+icon_style(fontawesome('r-project'), scale = 5, fill = "#2367ba")
+```
+
+
+]
 
 
 
@@ -407,15 +425,27 @@ background-size: cover
 THANK YOU AND JOIN US!
 ]]
 
-.bigger[.yellow[
-Where to find us: 
-]
+&nbsp;
+<hr />
 
-.off-white[
-[Lattes](http://lattes.cnpq.br/2642488704355833)   
-[Orcid](https://orcid.org/0000-0002-9011-2342)   
-[Google Scholar](https://scholar.google.com/citations?user=V6EX45EAAAAJ)   
-[CV](https://github.com/retaoliveira/relements/raw/main/texto/index.pdf)   
-[Twitter](https://twitter.com/retaoliveira)   
-[Github](https://github.com/retaoliveira)
-]]
+<p style="text-align: center;"><span style="color: #ebdb00;"><em>renataoliveira@gmail.com</em></span></p>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+    <a href="https://twitter.com/retaoliveira?lang=en" class="fa fa-twitter fa-2x"></a>
+    <a href="https://github.com/retaoliveira" class="fa fa-github fa-2x"></a>
+    <a href="https://scholar.google.com/citations?user=V6EX45EAAAAJ" class="ai ai-google-scholar ai-2x"></a>
+    <a href="https://orcid.org/0000-0002-9011-2342" class="ai ai-orcid ai-2x"></a>
+    <a href="http://lattes.cnpq.br/2642488704355833" class="ai ai-lattes ai-2x"></a>
+    <a href="https://github.com/retaoliveira/relements/raw/main/texto/index.pdf" class="ai ai-cv ai-2x"></a>
+
+</p>
+
+&nbsp;
+
