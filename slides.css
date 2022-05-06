@@ -57,7 +57,7 @@
   --text-color: #000000;
   --header-color: #504556;
   --background-color: #e9ecec;
-  --link-color: #504556;
+  --link-color: #ebdb00;
   --text-bold-color: #504556;
   --code-highlight-color: #ebdb00;
   --inverse-text-color: #ebdb00;
@@ -93,7 +93,11 @@
 }
 
 .link_style {
-  color: "#447178"
+  color: "#447178";
+}
+
+.off-white {
+  color: var(--background-color);
 }
 
 .reduced_opacity {
@@ -146,7 +150,7 @@ h1{
   color: var(--header-color);
 }
 
-h2, h3 {
+h2 {
   font-family: var(--text-font-family);
   font-weight: bold;
   color: var(--header-color);
@@ -155,14 +159,16 @@ h2, h3 {
   
 }
 
-/*h1, h2, h3 {
-  margin-top: 10px;
-  margin-bottom: 3px;
-  margin-right: 5px;
-  margin-left: 5px;
-  padding-top: 20px;
+h3 {
+  font-family: var(--text-font-family);
+  font-weight: bold;
+  color: var(--header-color);
+  line-height: 1em;
+  padding-top: 5px;
+  
 }
-*/
+
+
 .remark-slide-content {
   background-color: var(--background-color);
   font-size: 1rem;
@@ -180,6 +186,7 @@ h2, h3 {
 .remark-slide-content h3 {
   font-size: var(--header-h3-font-size);
   line-height: 1em;
+
 }
 .remark-code, .remark-inline-code {
   font-family: var(--code-font-family);
@@ -234,7 +241,9 @@ a, a > code {
          font-family: 'Open Sans', sans-serif;
          color: var(--inverse-text-color);
 }
-.large { font-size: 150% }
+
+.large { font-size: 200% }
+.bigger { font-size: 150% }
 .big { font-size: 115% }
 .midi { font-size: 85% }
 .small { font-size: 70% }
