@@ -329,7 +329,7 @@ background-size: cover
 
 ---
 
-background-image: url(img/fundo1.png)
+background-image: url(img/fundo2.png)
 background-size: cover
 
 ## Projects waiting for you!!!
@@ -337,7 +337,7 @@ background-size: cover
 .big[
 - jointly develop multidisciplinary research, education and innovation
 - demand for transport and logistics and supply of transport and logistics
-- Trabalh oinformal
+- Trabalho informal
 - Serviços críticos
 - Assessing trip chaining to access pickup points
 - Production and consumption in local scale
@@ -345,10 +345,10 @@ background-size: cover
 ]
 
 ---
-background-image: url(img/fundo1.png)
+background-image: url(img/fundo2.png)
 background-size: cover
-.yellow[
-## Projects waiting for you!!!]
+
+## Projects waiting for you!!!
 
 .big[
 - Relationship among urban structure, transport and logistics solutions, and social and environmental dimensions in the urban context. 
@@ -377,10 +377,10 @@ background-image: url(img/fundo1.png)
 background-size: cover
 
 .large[.yellow[
-Visit to Campus Lindholmen
+Visit to Campus Lindholmen   
 26/05 - 09:30h
 
-Talk with current students and researchers
+Talk with current students and researchers   
 26/05 - 14:00h 
 ]]
 
@@ -407,7 +407,7 @@ background-size: cover
 THANK YOU AND JOIN US!
 ]]
 
-.big[.yellow[
+.bigger[.yellow[
 Where to find us: 
 ]
 
@@ -418,4 +418,4 @@ Where to find us:
 [CV](https://github.com/retaoliveira/relements/raw/main/texto/index.pdf)   
 [Twitter](https://twitter.com/retaoliveira)   
 [Github](https://github.com/retaoliveira)
-]
+]]
