@@ -41,7 +41,7 @@ background-size: contain
 
 .huge[
 .center[
-Why should you become a Master's student at Chalmers?
+Why should you work in our research group to develop your thesis?
 ]]
 
 .purple[
@@ -154,13 +154,11 @@ knitr::include_graphics("img/wesley-tingey-DBu9IrkuPFM-unsplash.jpg")
 ]
 ]
 
-
 ???
-
-Maybe you haven't experienced all theses situations, but you surely know what it is about and how it affect people's lives. 
 
 Mobility of people and availability of goods is a fundamental part of the modern society and generates tremendous economic and social value. However, growing transport volumes pose challenges such as climate change, environmental pollution and traffic accidents.
 
+Maybe you haven't experienced all theses situations, but you surely know what it is about and how it affect people's lives. 
 
 ---
 
@@ -177,7 +175,11 @@ knitr::include_graphics("img/together.jpg")
 
 ???
 
-To achieve this vision, besides departments of education, Chalmers has organized students, researchers and professors in areas of advance. Areas of Advance are all about interdisciplinarity, interaction between people; between researchers within and outside Chalmers, between researchers and students at Chalmers, between Chalmers and the surrounding world. 
+You all are acquainted with Chalmers masters' programs. 
+
+So you know that, to achieve this vision, besides the consolidated departments of education, Chalmers has organized students, researchers and professors in areas of advance. 
+
+Areas of Advance are all about **interdisciplinarity**, interaction between people; between researchers within and outside Chalmers, between researchers and students at Chalmers, between Chalmers and the surrounding world. 
 
 
 ---      
@@ -213,14 +215,36 @@ background-image: url(img/fundo2.png)
 background-size: cover
 
 ## Transport Area of Advance
-
-### Among other goals.... 
-
+.center[
 .large[
-- Create the potential for **sustainable** and **safe** transport systems   
-- Increase **effectiveness** and **efficiency**   
-- Enhance **livability**, **equitable access to opportunities** and **quality of life**   
-- Address **social, environmental and economic challenges**   
+Research area **Transport Efficiency and Customer Adapted Logistics**
+]
+]
+
+```{r echo=FALSE, out.width="40%"}
+knitr::include_graphics("img/area.png")
+```
+
+???
+
+The profile includes two highly interrelated areas, reflecting two main perspectives, where researchers meet to jointly develop multidisciplinary research, education and innovation. These areas are demand for transport and logistics and supply of transport and logistics
+
+---
+
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## PLACES - PLanning for ACcESs Research Group
+### Investigation objectives 
+
+.purple[
+- Create the potential for **effective**, **sustainable** and **social responsible** urban logistics solutions;
+
+- Enhance **livability**, **equitable access to opportunities**, **social justice** and **quality of life** in cities through the **coordination** among **mobility systems**, **land use** and the **spatial structure of urban activities and functions**;  
+
+- **Characterise**, **diagnose** and **assess** the relationship between **production, distribution and consumption structures** on **inequitable access to food and other essential goods** in urban areas.  
+  
+- Investigate **causal** relationships among **urban logistics** systems and the **urban spatial structure**, identifying relevant factors that **drive demand for goods**, considering the **customer as an active agent** in urban logistics.
 ]
 
 ---
@@ -228,27 +252,51 @@ background-size: cover
 background-image: url(img/fundo2.png)
 background-size: cover
 
-.pull-left-narrow[
-### Transport Area of Advance
-- Research area Transport Efficiency and Customer Adapted Logistics
+## PLACES - PLanning for ACcESs Research Group
+### Main departments exchanging knowledge and collaborating with PLACES
 
-```{r echo=FALSE, out.width="30%"}
-knitr::include_graphics("img/area.png")
-```
+Department | Collaboration
+-----------|--------------
+Architecture and Civil Engineering | 
+Technology Management and Economics | asfa
+Computer Science and Engineering | sadf
+Communication and Learning in Science | Support on research communication to broader audiences, data curation and compliance with GDPR and Open Science efforts. 
 
-]
-
-.pull-right-wide[
-
-### Our goals in the research group - PLACES
-
-- jointly develop multidisciplinary research, education and innovation
-- demand for transport and logistics and supply of transport and logistics
-]
 
 ???
 
-The profile includes two highly interrelated areas, reflecting two main perspectives, where researchers meet to jointly develop multidisciplinary research, education and innovation. These areas are demand for transport and logistics and supply of transport and logistics
+GDPR - General Data Protection Regulation
+
+To explore these aforementioned goals through research and education, our research group focus on Transport Efficiency and Customer Adapted Logistics through interdisciplinary approaches.
+
+Our research group is entitled:
+
+
+---
+
+background-image: url(img/fundo2.png)
+background-size: cover
+
+## PLACES - PLanning for ACcESs Research Group
+### Some projects for you to join
+
+
+
+- jointly develop multidisciplinary research, education and innovation
+- demand for transport and logistics and supply of transport and logistics
+- Trabalh oinformal
+- Serviços críticos
+- Assessing trip chaining to access pickup points
+
+- Demand for transport services and logistics
+- Relationship among urban structure, transport and logistics solutions, and social and environmental dimensions in the urban context. 
+
+
+
+
+???
+
+
 
 Our research group is part of the Transporte, entitle PLACES - Planning for accessibility, 
 
@@ -258,12 +306,9 @@ Our research group is part of the Transporte, entitle PLACES - Planning for acce
 background-image: url(img/fundo2.png)
 background-size: cover
 
-## Transport Area of Advance - Transport Efficiency and Customer Adapted Logistics
+## PLACES - PLanning for ACcESs research group
 
-- Demand for transport services and logistics
-- Relationship among urban structure, transport and logistics efficiency and social and environmental dimentions in the urban context. 
 
-A growing awareness of the relationship between transport efficiency and the environmental and societal consequences of different logistics and transport solutions on society
 
 
 
@@ -273,17 +318,6 @@ background-size: cover
 
 ## Transport Area of Advance
 
-.pull-right[
-Architecture and Civil Engineering
-Technology Management and Economics
-Computer Science and Engineering
-]
-
-???
-
-To explore these aforementioned goals through research and education, our research group focus on Transport Efficiency and Customer Adapted Logistics through interdisciplinary approaches.
-
-Our research group is entitled:
 
 --
 

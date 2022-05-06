@@ -235,13 +235,12 @@ a, a > code {
          color: var(--inverse-text-color);
 }
 .large { font-size: 150% }
+.big { font-size: 115% }
 .midi { font-size: 85% }
 .small { font-size: 70% }
 .xsmall { font-size: 65% }
 .tiny { font-size: 50% }
-
 .bold { font-weight: bold}
-
 .midi .remark-code { font-size: 85%; }
 .small .remark-code { font-size: 70%; }
 .xsmall .remark-code { font-size: 65%; }
@@ -254,6 +253,21 @@ a, a > code {
 }
 
 /*Alternative two-column layouts*/
+.column {
+  float: left;
+}
+
+.left {
+  width: 50%;
+}
+
+.right {
+  width: 50%;
+}
+
+.right ~ * {
+  clear: both;
+}
 
   /*Left 70% - Right 30% */
 .pull-left {
@@ -261,7 +275,7 @@ a, a > code {
   float: left;
 }
 .pull-right {
-  width: 57%;
+  width: 50%;
   float: right;
 }
 
