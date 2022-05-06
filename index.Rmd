@@ -118,7 +118,7 @@ knitr::include_graphics("img/darmau-lee-V0C_nZrkPKk-unsplash.jpg")
 
 ]
 
-.panel[.panel-name[Security issues]
+.panel[.panel-name[Safety issues]
 ### Urban and Regional Challenges
 ```{r echo=FALSE, out.width="80%"}
 knitr::include_graphics("img/c-joyful-uWOBgtCD_m8-unsplash.jpg")
@@ -166,7 +166,7 @@ background-size: cover
 ## The vision of a sustainable future is what drives Chalmers
 
 
-```{r echo=FALSE, out.width="60%"}
+```{r echo=FALSE, out.width="70%"}
 knitr::include_graphics("img/together.jpg")
 ```
 
@@ -210,10 +210,10 @@ background-size: cover
 ### Among other goals.... 
 
 .large[
-- Create the potential for sustainable and safe transport systems   
-- Increase effectiveness and efficiency   
-- Enhance livability, equitable access to opportunities and quality of life   
-- Address social, environmental and economic challenges   
+- Create the potential for **sustainable** and **safe** transport systems   
+- Increase **effectiveness** and **efficiency**   
+- Enhance **livability**, **equitable access to opportunities** and **quality of life**   
+- Address **social, environmental and economic challenges**   
 ]
 
 ---
