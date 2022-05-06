@@ -228,20 +228,24 @@ background-size: cover
 background-image: url(img/fundo2.png)
 background-size: cover
 
-## Transport Area of Advance - research area Transport Efficiency and Customer Adapted Logistics
+.pull-left-narrow[
+### Transport Area of Advance
+- Research area Transport Efficiency and Customer Adapted Logistics
 
-.pull-left[
-```{r echo=FALSE, out.width="45%"}
+```{r echo=FALSE, out.width="30%"}
 knitr::include_graphics("img/area.png")
 ```
+
 ]
 
-.pull-right[
+.pull-right-wide[
 
-jointly develop multidisciplinary research, education and innovation
+### Our goals in the research group - PLACES
 
-demand for transport and logistics and supply of transport and logistics
+- jointly develop multidisciplinary research, education and innovation
+- demand for transport and logistics and supply of transport and logistics
 ]
+
 ???
 
 The profile includes two highly interrelated areas, reflecting two main perspectives, where researchers meet to jointly develop multidisciplinary research, education and innovation. These areas are demand for transport and logistics and supply of transport and logistics
@@ -604,11 +608,8 @@ background-image: url(img/fundo2.png)
 background-size: cover
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="90%"}
-knitr::include_graphics("img/MEME.png")
+knitr::include_graphics("img/meme.png")
 ```
-
-
-
 
 ---
 
