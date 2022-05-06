@@ -329,8 +329,11 @@ library(hexSticker)
 .left-narrow[
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 icon_style(fontawesome('r-project'), scale = 5, fill = "#2367ba")
-icon_style(fontawesome('github'), scale = 5, fill = "#ebdb00")
+```
 
+<br></br>
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+icon_style(fontawesome('github'), scale = 5, fill = "#ebdb00")
 ```
 
 ]
@@ -339,8 +342,6 @@ icon_style(fontawesome('github'), scale = 5, fill = "#ebdb00")
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 icon_style(fontawesome('r-project'), scale = 5, fill = "#2367ba")
 ```
-
-
 ]
 
 
