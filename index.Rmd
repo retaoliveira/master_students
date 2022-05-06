@@ -228,7 +228,7 @@ background-size: cover
 **Transport Efficiency and Customer Adapted Logistics** 
 ]]
 
-```{r echo=FALSE, out.width="65%"}
+```{r echo=FALSE, out.width="60%"}
 knitr::include_graphics("img/area.png")
 ```
 
